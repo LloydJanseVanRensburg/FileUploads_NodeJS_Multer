@@ -3,7 +3,7 @@ In this project i went through the basics of handling file uploads to the server
 
 This repo has the following code:
 * Backend code this includes the server side rendered frontend aswell as all the backend API code used to handle the file uploads
-* Frontend code this includes the client side rendered frontend (React App) 
+* Clientside code this includes the client side rendered frontend (React App) 
 
 To use or test this repo code you would need to do the following:
 1. Download or clone this repo
